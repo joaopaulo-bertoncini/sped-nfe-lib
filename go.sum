@@ -1,0 +1,10 @@
+cloud.google.com/go v0.116.0 h1:B3fRrSDkLRt5qSHWe40ERJvhvnQwdZiHu0bJOpldweE=
+cloud.google.com/go v0.116.0/go.mod h1:cEPSRWPzZEswwdr9BxE6ChEn01dWlTaF05LiC2Xs70U=
+github.com/amdonov/xmlsig v0.1.0 h1:i0iQ3neKLmUhcfIRgiiR3eRPKgXZj+n5lAfqnfKoeXI=
+github.com/amdonov/xmlsig v0.1.0/go.mod h1:jTR/jO0E8fSl/cLvMesP+RjxyV4Ux4WL1Ip64ZnQpA0=
+github.com/frones/brdocs v0.0.0-20191124002639-fcc6fb60dff8 h1:tqhTXRKW9DQHhTrFDPIxbSu1weOVvjnHZlmJrVSS/J8=
+github.com/frones/brdocs v0.0.0-20191124002639-fcc6fb60dff8/go.mod h1:ueClmpgmFX0ssxOV40lNF6byZpSdMGrYdyyEqOr17dA=
+github.com/frones/strmask v0.0.0-20191124001919-f8a35ebadd11 h1:LS3nXTCNzeiRoO0N5OCM3NhSzq7JmY736iUh787Thx8=
+github.com/frones/strmask v0.0.0-20191124001919-f8a35ebadd11/go.mod h1:rExoQZ5Gbm07RzTjTKisk73KzTJ2q5DvcD0E63uX04c=
+github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
+github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
